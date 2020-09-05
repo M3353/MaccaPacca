@@ -1,2 +1,2 @@
 # MaccaPacca
- A simple runner game created with Lua
+  A simple infinite runner game demo about an alpaca
